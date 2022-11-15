@@ -3959,3 +3959,9 @@ input, select, textarea {
 		.justificado {      /* justificado del texto */
 			text-align: justify;
 		  }
+		  .centrar{
+			margin: 0 auto;
+			width: 40%;
+			/* widht:40vw  pa centrar el video del inicio*/
+			display: block;
+		   }
